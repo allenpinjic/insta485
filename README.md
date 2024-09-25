@@ -19,8 +19,8 @@
 </p>
 
 ### Built With
-[![C++][cplusplus]][cplusplus-url]
-[![Xcode][xcode]][xcode-url]
+<!-- [![C++][cplusplus]][cplusplus-url] -->
+
 
 <!-- FEATURES -->
 ## Features
@@ -141,5 +141,21 @@ This project imitates the same kinds of experiences found in the real Instagram 
 <!-- MARKDOWN LINKS & IMAGES -->
 [cplusplus]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [cplusplus-url]: https://cplusplus.com/
+
 [xcode]: https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
 [xcode-url]: https://developer.apple.com/xcode/
+
+[flask]: (https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+[flask_url]: https://flask.palletsprojects.com/en/3.0.x/
+
+[aws]: (https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[aws_url]: https://aws.amazon.com/
+
+[pycharm]: (https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+[pycharm_url]: https://www.jetbrains.com/pycharm/
+
+[python]: (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[python_url]: https://www.python.org/
+
+[jinja]: (https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+[jinja_url]: https://jinja.palletsprojects.com/en/3.1.x/
