@@ -82,6 +82,9 @@ This project imitates the same kinds of experiences found in the real Instagram 
 
 ### Explore
 
+*Currently working on this portion*
+
+<img width="205" alt="Screenshot 2024-09-25 at 19 21 10" src="https://github.com/user-attachments/assets/bbb0c183-f8de-4afb-b302-64d4b1c57d48"><br>
 
 <p align="center"> 
   Displays users that you are not currently follows and allows you to follow/unfollow them respectively
@@ -113,6 +116,10 @@ This project imitates the same kinds of experiences found in the real Instagram 
 </p>
 
 ### Edit
+
+*Currently working on this portion*
+
+<img width="551" alt="Screenshot 2024-09-25 at 19 18 54" src="https://github.com/user-attachments/assets/bca856f2-e7a5-414c-bacc-4e00e98dd5b6"><br>
 
 <p align="center"> 
   Allows the user to change their account by uploading a new profile picture, changing their current password, or deleting their account
