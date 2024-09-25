@@ -3,19 +3,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">Instagram Clone (Server-Side)</h3>
+<h3 align="center">Instagram Clone</h3>
   <p align="center">
-    An Instagram clone implemented with server-side dynamic pages
+    An Instagram clone implemented with server-side dynamic pages <br> (Client-side dyanmic pages coming soon!)
   </p>
   <p align="center">
-    EECS 485 - September 2024
+    <strong>EECS 485</strong> <br> September 2024 - Present
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  A multi-user, interactive clone of Instagram implemented with server-side dynamic pages that features the ability to create, update, and delete users, posts, comments, and likes
+  A multi-user, interactive clone of Instagram that is currently implemented with server-side dynamic pages that features the ability to create, update, and delete users, posts, comments, and likes
 </p>
 
 ### Built With
