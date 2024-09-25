@@ -37,13 +37,13 @@ This project imitates the same kinds of experiences found in the real Instagram 
 ## Website Pages
 
 <p align="center"> 
-  
+  Each webpage has a unique set of features that fulfills a particular set of goals, similar to Instagram itself
 </p>
 
 ### Index
 
 <p align="center"> 
-  
+  Also called the <strong>Main Page</strong>, it displays all of the posts that exist within the SQL database at any given time along with information about the post itself (ie. the post's owner, their profile picture, and the timestamp), comments (including a comment's owner), and the ability to delete one's own comments
 </p>
 
 ### User Profile
