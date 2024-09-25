@@ -18,8 +18,18 @@
   A multi-user, interactive clone of Instagram that is currently implemented with server-side dynamic pages that features the ability to create, update, and delete users, posts, comments, and likes
 </p>
 
-### Built With
+### Tools & Languages
 <!-- [![C++][cplusplus]][cplusplus-url] -->
+
+[![Python][python]][python_url]
+[![HTML][html]][html_url]
+[![CSS][css]][css_url]
+[![SQLite][sqlite]][sqlite_url]
+
+[![Flask][flask]][flask_url]
+[![AWS][aws]][aws_url]
+[![Jinja][jinja]][jinja_url]
+[![PyCharm][pycharm]][pycharm_url]
 
 
 <!-- FEATURES -->
@@ -139,11 +149,6 @@ This project imitates the same kinds of experiences found in the real Instagram 
 [EECS 485 Project Description](https://eecs485staff.github.io/p2-insta485-serverside/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[cplusplus]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[cplusplus-url]: https://cplusplus.com/
-
-[xcode]: https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
-[xcode-url]: https://developer.apple.com/xcode/
 
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [flask_url]: https://flask.palletsprojects.com/en/3.0.x/
@@ -168,5 +173,8 @@ This project imitates the same kinds of experiences found in the real Instagram 
 
 [html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [html_url]: https://www.w3.org/TR/2011/WD-html5-20110405/
+
+[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css_url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 
