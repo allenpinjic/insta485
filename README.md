@@ -5,7 +5,7 @@
 <div align="center">
 <h3 align="center">Instagram Clone (Server-Side)</h3>
   <p align="center">
-    
+    An Instagram clone implemented with server-side dynamic pages
   </p>
   <p align="center">
     EECS 485 - September 2024
@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  
+  A multi-user, interactive clone of Instagram implemented with server-side dynamic pages that features the ability to create, update, and delete users, posts, comments, and likes
 </p>
 
 ### Built With
@@ -25,8 +25,6 @@
 <!-- FEATURES -->
 ## Features
 
-<!--Use this space to show useful examples of how a project can be used.
-Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
 - [ ] falsk application py virtual environment
 - [ ] sql usage
 - [ ] jinja2
@@ -34,31 +32,79 @@ Additional screenshots, code examples and demos work well in this space. You may
 - [ ] ec2 instance
 
 ## Description
-
+This project imitates the same kinds of experiences found in the real Instagram appication (including most other social media applications as well), with a number of different pages that as a whole form a functioning and unified website experience.
 
 ## Website Pages
 
-# Index
+<p align="center"> 
+  
+</p>
 
-# User Profile
+### Index
 
-# Followers
+<p align="center"> 
+  
+</p>
 
-# Following
+### User Profile
 
-# Post
+<p align="center"> 
+  
+</p>
 
-# Explore
+### Followers
 
-# Login
+<p align="center"> 
+  
+</p>
 
-# Create
+### Following
 
-# Delete
+<p align="center"> 
+  
+</p>
 
-# Edit
+### Post
 
-# Password
+<p align="center"> 
+  
+</p>
+
+### Explore
+
+<p align="center"> 
+  
+</p>
+
+### Login
+
+<p align="center"> 
+  
+</p>
+
+### Create
+
+<p align="center"> 
+  
+</p>
+
+### Delete
+
+<p align="center"> 
+  
+</p>
+
+### Edit
+
+<p align="center"> 
+  
+</p>
+
+### Password
+
+<p align="center"> 
+  
+</p>
 
 
 
