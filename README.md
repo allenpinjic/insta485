@@ -49,7 +49,7 @@ This project imitates the same kinds of experiences found in the real Instagram 
 ### User Profile
 
 <p align="center"> 
-  
+  Displays information specific to this given user, including the number of posts they have posted, the number of followers, and the number of people they are following. Alongside this information, there is also a links to other pages that deal with the user's profile and logging out as well as all of the posts that the given user has previouly posted.
 </p>
 
 ### Followers
