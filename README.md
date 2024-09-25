@@ -110,6 +110,8 @@ This project imitates the same kinds of experiences found in the real Instagram 
 
 ### Password
 
+<img width="306" alt="Screenshot 2024-09-25 at 19 12 46" src="https://github.com/user-attachments/assets/58cd5229-8934-45e0-a388-7543cbeb6225"><br>
+
 <p align="center"> 
   Allows the user to change their password to a new one
 </p>
