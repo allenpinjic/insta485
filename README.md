@@ -42,17 +42,23 @@ This project imitates the same kinds of experiences found in the real Instagram 
 
 ### Index
 
+<img width="364" alt="Screenshot 2024-09-25 at 19 02 49" src="https://github.com/user-attachments/assets/9fb256ac-1df3-489d-b4b9-5214a1a72089"><br>
+
 <p align="center"> 
   Also called the <strong>Main Page</strong>, it displays all of the posts that exist within the SQL database at any given time along with information about the post itself (ie. the post's owner, their profile picture, etc.), comments, and the ability to delete one's own comments
 </p>
 
 ### User Profile
 
+<img width="757" alt="Screenshot 2024-09-25 at 19 06 08" src="https://github.com/user-attachments/assets/f8a6e154-fed2-4042-99f1-bc47db5fd08d"><br>
+
 <p align="center"> 
-  Displays information specific to this given user (including the number of posts they have posted, the number of followers, etc.) Alongside this information, there is also links that deal with the user's account as well as all of the posts that the given user has previouly posted.
+  Displays information specific to this given user (including the number of posts they have posted, the number of followers, etc.) There are also links that deal with the user's account, all of the posts that the given user has previouly posted, and allows for the creation of a new post.
 </p>
 
 ### Followers
+
+
 
 <p align="center"> 
   Lists each person that is following a given user, including their username and profile picture, along with a button that allows the current logged-in user to follow/unfollow them
