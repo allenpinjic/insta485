@@ -79,33 +79,32 @@ This project imitates the same kinds of experiences found in the real Instagram 
 ### Login
 
 <p align="center"> 
-  
+  Displays buttons that allow a user to login via their username and password
 </p>
 
 ### Create
 
 <p align="center"> 
-  
+  Allows for the creation of a new user with a specific username, password, and to upload a specific profile picture
 </p>
 
 ### Delete
 
 <p align="center"> 
-  
+  Allows the logged-in user to delete their own account, along with all information associated with them (any posts, comments, likes, and user information)
 </p>
 
 ### Edit
 
 <p align="center"> 
-  
+  Allows the user to change their account by uploading a new profile picture, changing their current password, or deleting their account
 </p>
 
 ### Password
 
 <p align="center"> 
-  
+  Allows the user to change their password to a new one
 </p>
-
 
 
 ## Acknowledgments
