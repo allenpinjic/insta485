@@ -74,11 +74,14 @@ This project imitates the same kinds of experiences found in the real Instagram 
 
 ### Post
 
+<img width="443" alt="Screenshot 2024-09-25 at 19 16 24" src="https://github.com/user-attachments/assets/324d411d-435b-4eb2-9a05-8483325a3cf7"><br>
+
 <p align="center"> 
   Displays a given post and related information (ie. the post's owner, their profile picture, and the timestamp), its comments, as well as the ability to like/unlike the post and delete your own comment
 </p>
 
 ### Explore
+
 
 <p align="center"> 
   Displays users that you are not currently follows and allows you to follow/unfollow them respectively
@@ -86,17 +89,24 @@ This project imitates the same kinds of experiences found in the real Instagram 
 
 ### Login
 
+<img width="232" alt="Screenshot 2024-09-25 at 19 14 43" src="https://github.com/user-attachments/assets/e59ffe11-ef4a-4178-983b-912fa20bb3fa"><br>
+
 <p align="center"> 
   Displays buttons that allow a user to login via their username and password
 </p>
 
 ### Create
 
+<img width="315" alt="Screenshot 2024-09-25 at 19 15 18" src="https://github.com/user-attachments/assets/7266d959-8940-415c-af02-5c0ccd9266b1"><br>
+
+
 <p align="center"> 
   Allows for the creation of a new user with a specific username, password, and to upload a specific profile picture
 </p>
 
 ### Delete
+
+<img width="209" alt="Screenshot 2024-09-25 at 19 13 40" src="https://github.com/user-attachments/assets/4683ffd9-84a1-4538-acf0-3da1cb69325b"><br>
 
 <p align="center"> 
   Allows the logged-in user to delete their own account, along with all information associated with them (any posts, comments, likes, and user information)
