@@ -58,13 +58,15 @@ This project imitates the same kinds of experiences found in the real Instagram 
 
 ### Followers
 
-
+<img width="375" alt="Screenshot 2024-09-25 at 19 11 07" src="https://github.com/user-attachments/assets/646a0e2f-ce60-41ee-82a8-7fced18d294e"><br>
 
 <p align="center"> 
   Lists each person that is following a given user, including their username and profile picture, along with a button that allows the current logged-in user to follow/unfollow them
 </p>
 
 ### Following
+
+<img width="324" alt="Screenshot 2024-09-25 at 19 08 40" src="https://github.com/user-attachments/assets/60cb93d0-7759-4017-a03d-6b4e6119527e"><br>
 
 <p align="center"> 
   Lists each person that a given user is following, including their username and profile picture, along with a button that allows the current logged-in user to follow/unfollow them
