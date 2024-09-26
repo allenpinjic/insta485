@@ -181,7 +181,8 @@ Each webpage has a unique set of features that fulfills a particular set of goal
 
 ## Acknowledgments
 
-[EECS 485 Project Description](https://eecs485staff.github.io/p2-insta485-serverside/)
+[EECS 485 Project 1 Description](https://eecs485staff.github.io/p1-insta485-static/)
+[EECS 485 Project 2 Description](https://eecs485staff.github.io/p2-insta485-serverside/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
