@@ -5,10 +5,10 @@
 <div align="center">
 <h1 align="center">Instagram Clone</h3>
   <p align="center">
-    An Instagram clone implemented with server-side dynamic pages <br> (Client-side dyanmic pages coming soon!)
+    An Instagram clone implemented with server-side and clide-side dynamic pages 
   </p>
   <p align="center">
-    <strong>EECS 485</strong> <br> September 2024 - Present
+    <strong>EECS 485</strong> <br> September - October 2024
   </p>
 </div>
 
@@ -45,9 +45,12 @@
 [![Python][python]][python_url]
 [![HTML][html]][html_url]
 [![CSS][css]][css_url]
+[![JavaScript][javascript]][javascript_url]
 [![SQLite][sqlite]][sqlite_url]
 
 [![Flask][flask]][flask_url]
+[![React][react]][react_url]
+[![Node.js][nodejs]][nodejs_url]
 [![AWS][aws]][aws_url]
 [![Jinja][jinja]][jinja_url]
 [![PyCharm][pycharm]][pycharm_url]
@@ -182,7 +185,8 @@ Each webpage has a unique set of features that fulfills a particular set of goal
 ## Acknowledgments
 
 [EECS 485 Project 1 Description](https://eecs485staff.github.io/p1-insta485-static/) <br>
-[EECS 485 Project 2 Description](https://eecs485staff.github.io/p2-insta485-serverside/)
+[EECS 485 Project 2 Description](https://eecs485staff.github.io/p2-insta485-serverside/) <br>
+[EECS 485 Project 3 Description](https://eecs485staff.github.io/p3-insta485-clientside/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -212,5 +216,15 @@ Each webpage has a unique set of features that fulfills a particular set of goal
 
 [css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [css_url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+[react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[react_url]: https://react.dev/
+
+[javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[javascript_url]: https://nodejs.org/en
+
+[nodejs]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[nodejs_url]: https://nodejs.org/en
+
 
 
